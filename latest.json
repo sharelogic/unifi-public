@@ -1,14 +1,17 @@
 {
   "unifi": {
     "version": "4.0.2",
+    "link": "https://store.servicenow.com/sn_appstore_store.do#!/store/application/74f0b4550f8ca20094f3c09ce1050e6a",
     "notes": []
   },
   "unifi_global_utility": {
     "version": "4.0.2.1",
+    "link": "https://docs.sharelogic.com/unifi/install/installation/global-utility"
     "notes": []
   },
   "unifi_hotfix": {
     "version": "4.0.2.2",
+    "link": "https://docs.sharelogic.com/unifi/install/installation/hotfixes"
     "notes": []
   }
 }
