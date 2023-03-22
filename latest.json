@@ -3,7 +3,7 @@
   "versions": {
     "4.2.0": {
       "link": "https://docs.sharelogic.com/unifi/v/4.2/install/release-notes/unifi-4.2-release-notes",
-      "description": "",
+      "description": "This update contains a new operations portal and more exciting features and bug fixes.",
       "supported": true,
       "utility": {
         "version": "4.2.0.0",
