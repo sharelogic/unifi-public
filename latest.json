@@ -6,12 +6,12 @@
   },
   "unifi_global_utility": {
     "version": "4.0.2.1",
-    "link": "https://docs.sharelogic.com/unifi/install/installation/global-utility"
+    "link": "https://docs.sharelogic.com/unifi/install/installation/global-utility",
     "notes": []
   },
   "unifi_hotfix": {
     "version": "4.0.2.2",
-    "link": "https://docs.sharelogic.com/unifi/install/installation/hotfixes"
+    "link": "https://docs.sharelogic.com/unifi/install/installation/hotfixes",
     "notes": []
   }
 }
