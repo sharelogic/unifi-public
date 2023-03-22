@@ -1,17 +1,63 @@
 {
-  "unifi": {
-    "version": "4.0.2",
-    "link": "https://store.servicenow.com/sn_appstore_store.do#!/store/application/74f0b4550f8ca20094f3c09ce1050e6a",
-    "notes": []
-  },
-  "unifi_global_utility": {
-    "version": "4.0.2.1",
-    "link": "https://docs.sharelogic.com/unifi/install/installation/global-utility",
-    "notes": []
-  },
-  "unifi_hotfix": {
-    "version": "4.0.2.2",
-    "link": "https://docs.sharelogic.com/unifi/install/installation/hotfixes",
-    "notes": []
+  "latest": "4.2.0",
+  "versions": {
+    "4.2.0": {
+      "link": "https://docs.sharelogic.com/unifi/v/4.2/install/release-notes/unifi-4.2-release-notes",
+      "description": "",
+      "supported": true,
+      "utility": {
+        "version": "4.2.0.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/global-utility"
+      },
+      "hotfix": {
+        "version": "4.2.0.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/hotfixes"
+      }
+    },
+    "4.1.0": {
+      "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
+      "description": "",
+      "supported": true,
+      "utility": {
+        "version": "4.1.0.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility"
+      },
+      "hotfix": {
+        "version": "4.1.0.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/hotfixes"
+      }
+    },
+    "4.0.2": {
+      "link": "https://docs.sharelogic.com/unifi/v/4.0/install/release-notes/unifi-4.0-release-notes",
+      "description": "",
+      "supported": true,
+      "utility": {
+        "version": "4.0.2.2",
+        "link": "https://docs.sharelogic.com/unifi/v/4.0/install/installation/global-utility"
+      },
+      "hotfix": {
+        "version": "4.0.2.3",
+        "link": "https://docs.sharelogic.com/unifi/v/4.0/install/installation/hotfixes"
+      }
+    },
+    "3.1.1": {
+      "link": "https://docs.sharelogic.com/unifi/v/3.1/release/release-notes/release-notes",
+      "description": "",
+      "supported": true,
+      "utility": {
+        "version": "3.1.0",
+        "link": "https://docs.sharelogic.com/unifi/v/3.1/release/global-utility"
+      },
+      "hotfix": {
+        "version": "3.1.1.2",
+        "link": "https://docs.sharelogic.com/unifi/v/3.1/release/hotfixes"
+      }
+    },
+    "2.2": {
+      "link": "https://docs.sharelogic.com/unifi/v/2.2/release/release-notes",
+      "description": "",
+      "supported": false,
+      "latest": false
+    }
   }
 }
