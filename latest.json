@@ -20,7 +20,8 @@
       "supported": true,
       "utility": {
         "version": "4.1.0.0",
-        "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility"
+        "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility",
+        "description": "Fixed a bug"
       },
       "hotfix": {
         "version": "4.1.0.0",
