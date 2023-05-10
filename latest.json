@@ -1,19 +1,6 @@
 {
-  "latest": "4.2.0",
+  "latest": "4.0.2",
   "versions": {
-    "4.2.0": {
-      "link": "https://docs.sharelogic.com/unifi/v/4.2/install/release-notes/unifi-4.2-release-notes",
-      "description": "This update contains a new operations portal and more exciting features and bug fixes.",
-      "supported": true,
-      "utility": {
-        "version": "4.2.0.0",
-        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/global-utility"
-      },
-      "hotfix": {
-        "version": "4.2.0.0",
-        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/hotfixes"
-      }
-    },
     "4.1.0": {
       "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
       "description": "",
