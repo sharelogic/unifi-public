@@ -3,17 +3,17 @@
   "versions": {
     "4.1.0": {
       "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
-      "description": "Here is our update.",
+      "description": "Support for templates and other fixes.",
       "supported": true,
       "utility": {
-        "version": "4.1.0.1",
+        "version": "4.1.0.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility",
-        "description": "Fixed a bug"
+        "description": ""
       },
       "hotfix": {
-        "version": "4.1.0.1",
+        "version": "4.1.0.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/hotfixes",
-        "description": "Added support for something."
+        "description": ""
       }
     },
     "4.0.2": {
