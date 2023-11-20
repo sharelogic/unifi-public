@@ -1,17 +1,17 @@
 {
-  "latest": "4.1.0",
+  "latest": "4.1.2",
   "versions": {
-    "4.1.0": {
+    "4.1.2": {
       "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
-      "description": "Support for templates and other fixes.",
+      "description": "Introducing templates, a rebrand, and lots of fixes.",
       "supported": true,
       "utility": {
-        "version": "4.1.0.0",
+        "version": "4.1.2.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility",
         "description": ""
       },
       "hotfix": {
-        "version": "4.1.0.0",
+        "version": "4.1.2.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/hotfixes",
         "description": ""
       }
@@ -19,7 +19,7 @@
     "4.0.2": {
       "link": "https://docs.sharelogic.com/unifi/v/4.0/install/release-notes/unifi-4.0-release-notes",
       "description": "",
-      "supported": true,
+      "supported": false,
       "utility": {
         "version": "4.0.2.2",
         "link": "https://docs.sharelogic.com/unifi/v/4.0/install/installation/global-utility"
@@ -32,7 +32,7 @@
     "3.1.1": {
       "link": "https://docs.sharelogic.com/unifi/v/3.1/release/release-notes/release-notes",
       "description": "",
-      "supported": true,
+      "supported": false,
       "utility": {
         "version": "3.1.0",
         "link": "https://docs.sharelogic.com/unifi/v/3.1/release/global-utility"
