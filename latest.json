@@ -13,7 +13,7 @@
       "hotfix": {
         "version": "4.2.1.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/hotfixes",
-        "description": "Added fix to allow dataset exports to use legacy field maps and fixed an issue preventing messages from being identified."
+        "description": ""
       }
     },
     "4.1.2": {
