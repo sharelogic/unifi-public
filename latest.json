@@ -1,6 +1,21 @@
 {
-  "latest": "4.1.2",
+  "latest": "4.2.1",
   "versions": {
+    "4.2.1": {
+      "link": "https://docs.sharelogic.com/unifi/v/4.2/install/release-notes/unifi-4.2-release-notes",
+      "description": "General updates and improvements.",
+      "supported": true,
+      "utility": {
+        "version": "4.2.1.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/global-utility",
+        "description": ""
+      },
+      "hotfix": {
+        "version": "4.2.1.0",
+        "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/hotfixes",
+        "description": "Added fix to allow dataset exports to use legacy field maps and fixed an issue preventing messages from being identified."
+      }
+    },
     "4.1.2": {
       "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
       "description": "Introducing templates, a rebrand, and lots of fixes.",
