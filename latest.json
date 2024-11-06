@@ -11,9 +11,9 @@
         "description": ""
       },
       "hotfix": {
-        "version": "4.3.1.1",
+        "version": "4.3.0.0",
         "link": "https://docs.sharelogic.com/unifi/v/4.3/install/installation/hotfixes",
-        "description": "Fixed some issues with transaction processing, datasets, and debugging."
+        "description": ""
       }
     },
     "4.2.1": {
