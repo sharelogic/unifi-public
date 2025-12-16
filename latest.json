@@ -1,6 +1,21 @@
 {
-  "latest": "4.3.1",
+  "latest": "4.4.6",
   "versions": {
+    "4.4.6": {
+      "link": "https://docs.sharelogic.com/unifi/4.4/install/release-notes/unifi-4.4-release-notes",
+      "description": "Delivers Designer usability improvements, safer field inheritance and advanced dataset handling, improved error reporting, and stability enhancements across Dataset processing and HTTP Requests.",
+      "supported": true,
+      "utility": {
+        "version": "4.4.6.0",
+        "link": "https://docs.sharelogic.com/unifi/4.4/install/installation/global-utility",
+        "description": ""
+      },
+      "hotfix": {
+        "version": "4.4.6.0",
+        "link": "https://docs.sharelogic.com/unifi/4.4/install/installation/hotfixes",
+        "description": ""
+      }
+    },
     "4.3.1": {
       "link": "https://docs.sharelogic.com/unifi/v/4.3/install/release-notes/unifi-4.3-release-notes",
       "description": "General updates and improvements.",
@@ -19,7 +34,7 @@
     "4.2.1": {
       "link": "https://docs.sharelogic.com/unifi/v/4.2/install/release-notes/unifi-4.2-release-notes",
       "description": "General updates and improvements.",
-      "supported": true,
+      "supported": false,
       "utility": {
         "version": "4.2.1.1",
         "link": "https://docs.sharelogic.com/unifi/v/4.2/install/installation/global-utility",
@@ -34,7 +49,7 @@
     "4.1.2": {
       "link": "https://docs.sharelogic.com/unifi/v/4.1/install/release-notes/unifi-4.1-release-notes",
       "description": "Introducing templates, a rebrand, and lots of fixes.",
-      "supported": true,
+      "supported": false,
       "utility": {
         "version": "4.1.2.1",
         "link": "https://docs.sharelogic.com/unifi/v/4.1/install/installation/global-utility",
