@@ -34,7 +34,7 @@
     "4.3.1": {
       "link": "https://docs.sharelogic.com/unifi/v/4.3/install/release-notes/unifi-4.3-release-notes",
       "description": "General updates and improvements.",
-      "supported": false,
+      "supported": true,
       "utility": {
         "version": "4.3.1.1",
         "link": "https://docs.sharelogic.com/unifi/v/4.3/install/installation/global-utility",
