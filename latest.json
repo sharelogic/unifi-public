@@ -1,6 +1,21 @@
 {
-  "latest": "4.4.6",
+  "latest": "4.5.0",
   "versions": {
+    "4.5.0": {
+      "link": "https://docs.sharelogic.com/unifi/4.5/install/release-notes/unifi-4.5-release-notes",
+      "description": "General fixes and improvements, Australia compatibility, and better performance during mass record updates.",
+      "supported": true,
+      "utility": {
+        "version": "4.5.0",
+        "link": "https://docs.sharelogic.com/unifi/4.5/install/global-utility",
+        "description": "Added support for packaging deleted records."
+      },
+      "hotfix": {
+        "version": "4.5.0.0",
+        "link": "https://docs.sharelogic.com/unifi/4.5/install/hotfixes",
+        "description": ""
+      }
+    },
     "4.4.6": {
       "link": "https://docs.sharelogic.com/unifi/4.4/install/release-notes/unifi-4.4-release-notes",
       "description": "Delivers Designer usability improvements, safer field inheritance and advanced dataset handling, improved error reporting, and stability enhancements across Dataset processing and HTTP Requests.",
