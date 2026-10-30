@@ -1,12 +1,27 @@
 {
-  "latest": "4.5.0",
+  "latest": "4.6.0",
   "versions": {
+    "4.6.0": {
+      "link": "https://docs.sharelogic.com/unifi/4.6/install/release-notes/unifi-4.6-release-notes",
+      "description": "Unifi 4.6 marks the ServiceNow Brazil release and includes a number of new features and fixes.",
+      "supported": true,
+      "utility": {
+        "version": "4.6.0.0",
+        "link": "https://docs.sharelogic.com/unifi/4.6/install/global-utility",
+        "description": ""
+      },
+      "hotfix": {
+        "version": "4.6.0.0",
+        "link": "https://docs.sharelogic.com/unifi/4.6/install/hotfixes",
+        "description": ""
+      }
+    },
     "4.5.0": {
       "link": "https://docs.sharelogic.com/unifi/4.5/install/release-notes/unifi-4.5-release-notes",
       "description": "General fixes and improvements, Australia compatibility, and better performance during mass record updates.",
       "supported": true,
       "utility": {
-        "version": "4.5.0",
+        "version": "4.5.0.0",
         "link": "https://docs.sharelogic.com/unifi/4.5/install/global-utility",
         "description": "Added support for packaging deleted records."
       },
